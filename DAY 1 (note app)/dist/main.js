@@ -1,0 +1,1 @@
+document.getElementById("button").addEventListener("click",(function(){if(1==("undefined"!=typeof Storage||(alert("Web storage unsupported!"),!1))){var e=document.getElementById("area");""!=e.value?localStorage.setItem("note",e.value):alert("Nothing to save")}})),document.getElementById("buttonn").addEventListener("click",(function(){document.getElementById("area").value=""}));
