@@ -1,0 +1,25 @@
+.abc{
+  padding: 8px;
+  border:1px solid green;
+  background-color: green;
+  margin: 5px;
+  border-radius: 5px;
+}
+.bbc{
+  padding: 8px;
+  border:1px solid red;
+  background-color: red;
+  margin: 5px;
+  border-radius: 5px;
+}
+.ccc{
+  padding: 8px;
+  border:1px solid rgb(252, 97, 8);
+  background-color: aqua;
+  margin: 5px;
+  border-radius: 5px;
+}
+h1{
+  color: rgb(14, 136, 207);
+  border-bottom: 1px solid black;
+}
