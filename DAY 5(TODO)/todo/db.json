@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "title": "maggi",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "Aloo",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "Lays",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "Pens",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "Inkpen",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "Notebook",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "Books",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "Gel",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "Comb",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "Wax",
+      "purchased": false,
+      "id": 10
+    },
+    {
+      "title": "Bag",
+      "purchased": false,
+      "id": 11
+    },
+    {
+      "title": "Shirt",
+      "purchased": false,
+      "id": 12
+    },
+    {
+      "title": "T-Shirt",
+      "purchased": false,
+      "id": 13
+    },
+   
+    {
+      "title": "keys",
+      "purchased": false,
+      "id": 15
+    },
+    {
+      "title": "earphone",
+      "purchased": false,
+      "id": 16
+    }
+  ]
+}
