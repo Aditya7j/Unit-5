@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "Aditya",
+      "age": "18",
+      "address": "kolkata",
+      "dept": "it",
+      "salary": "2000",
+      "matrial": "No",
+      "id": 32
+    },
+    {
+      "username": "Amar",
+      "age": "22",
+      "address": "Ranchi",
+      "dept": "buss",
+      "salary": "5000",
+      "matrial": "No",
+      "id": 33
+    },
+    {
+      "username": "Rohit",
+      "age": "34",
+      "address": "kolkata",
+      "dept": "hel",
+      "salary": "8000",
+      "matrial": "No",
+      "id": 34
+    },
+    {
+      "username": "kumar",
+      "age": "21",
+      "address": "banglore",
+      "dept": "acc",
+      "salary": "5000",
+      "matrial": "Yes",
+      "id": 36
+    },
+    {
+      "username": "Ravi",
+      "age": "26",
+      "address": "Kochi",
+      "dept": "acc",
+      "salary": "50000",
+      "matrial": "No",
+      "id": 37
+    },
+    {
+      "username": "Satyam",
+      "age": "27",
+      "address": "Japiur",
+      "dept": "it",
+      "salary": "10000",
+      "matrial": "No",
+      "id": 38
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://www.clevelandwebdeveloper.com/wpsite/wp-content/uploads/2016/07/ss2.png");
+    background-repeat: no-repeat;
+
+}
+
+.cont{
+    display: flex;
+    padding-left: 40%;
+    padding-top: 5%;
+    
+}
+.abb{
+    width: 200px;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 5px;
+    background-color: #000000;
+    color: #FF0000
+}
+.abb::placeholder{
+    color: white;
+}
+.cont>form>select{
+    width: 230px;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 5px;
+    background-color: #000000;
+    color: #FF0000;
+}
+
+.abc{
+    color: white;
+}
