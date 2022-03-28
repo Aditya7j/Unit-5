@@ -1,0 +1,44 @@
+{
+  "meetups": [
+    {
+      "title": "Food Blog",
+      "location": "bangalore",
+      "date": "2022-05-15",
+      "time": "8-30",
+      "theme": "food",
+      "description": "Food lover",
+      "image": "https://image.shutterstock.com/image-photo/bowl-buddha-buckwheat-pumpkin-chicken-260nw-1259570605.jpg",
+      "id": 1
+    },
+    {
+      "title": "Movie Blog",
+      "location": "kolkata",
+      "date": "2022-05-18",
+      "time": "9:30",
+      "theme": "movies",
+      "description": "Movie lover",
+      "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:q-80/et00129624-cyfeqjvtcr-portrait.jpg",
+      "id": 2
+    },
+    {
+      "title": "Art",
+      "location": "mumbai",
+      "date": "2022-06-25",
+      "time": "10:30",
+      "theme": "art",
+      "description": "Art lover",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2019/03/elements-of-art-thumbnail-1.jpg",
+      "id": 3
+    },
+    {
+      "title": "Drama",
+      "location": "delhi",
+      "date": "2022-05-15",
+      "time": "6:30",
+      "theme": "drama",
+      "description": "Drama lover",
+      "image": "https://marrzipandrama.co.nz/wp-content/uploads/2020/12/The-6-elements-of-drama.jpg",
+      "id": 4
+    }
+  ]
+}
